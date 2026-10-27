@@ -9,8 +9,12 @@ int main(void) {
 
     // This is a single-line comment
 
-    /* This is
-       a multi-line comment */
+    /* 
+    
+    This is
+    a multi-line commentt 
+       
+    */
 
     printf("The age is %d\n", age);
     printf("The value of PI is %.2f\n", PI);
